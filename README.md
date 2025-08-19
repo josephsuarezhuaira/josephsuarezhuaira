@@ -1,7 +1,7 @@
-# 👋 Hola, soy Joseph Suárez  
+# 👋 Hola, soy JSuarez
 
 💻 **Full Stack Developer** | 🌐 Especialista en **Angular, Node.js, .NET, SQL Server, C#**  
-🚀 Apasionado por crear soluciones innovadoras y mejorar cada día  
+🚀 Apasionado por crear soluciones innovadoras
 
 ---
 
@@ -20,6 +20,22 @@
 
 ---
 
+## 🛠️ Tecnologías que uso
+<p align="left">
+  <!-- Node.js -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45"/>
+  <!-- Angular -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="45" height="45"/>
+  <!-- C# -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="45" height="45"/>
+  <!-- .NET -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET" width="45" height="45"/>
+  <!-- SQL Server -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="45" height="45"/>
+</p>
+
+---
+
 ## 🚀 Sobre mí
 - 🔭 Actualmente estoy trabajando en proyectos de **.NET + Angular**  
 ---
@@ -29,5 +45,4 @@
 - LinkedIn: *(aquí pondrías tu enlace si lo tienes)*  
 
 ---
-✨ _Gracias por visitar mi perfil, ¡bienvenido a mi mundo de código!_  
 
